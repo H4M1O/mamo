@@ -36,4 +36,4 @@ services:
     volumes:
       - ./docker/grafana/datasource.yaml:/etc/grafana/provisioning/datasources/datasource.yaml
       - ./docker/grafana/dashboard.yaml:/etc/grafana/provisioning/dashboards/dashboard.yaml
-      - ./docker/grafana/DashboardTelegraf.json:/var/lib/grafana/dashboards/DashboardTelegraf.json
+      - ./docker/grafana/MAMO.json:/var/lib/grafana/dashboards/MAMO.json

@@ -8,6 +8,7 @@ deleteDatasources:
 
 # list of datasources to insert/update depending
 # whats available in the database
+datasources:
 - name: Telegraf
   # <string, required> datasource type. Required
   type: influxdb

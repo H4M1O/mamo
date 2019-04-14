@@ -1,4 +1,5 @@
-# MAMO - Mac OSX Monitoring System (Docker + Telegraf + InfluxDB + Grafana)
+# MAMO - Mac OSX Monitoring System 
+# (Docker + Telegraf + InfluxDB + Grafana)
 
 This repository use docker-compose (docker needs to be pre-installed in your machine) 
 to setup a local telegraf, influxdb and grafana stack (known as TIG stack).
